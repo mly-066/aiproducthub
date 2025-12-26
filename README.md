@@ -10,6 +10,9 @@ AI产品库AIProductHub是一个专注于AI产品收录与分享的网站平台�
 - 使命愿景：发现更好用的AI产品
 - 目标用户：AI从业者、内容创作者、企业用户、技术爱好者
 - 价值主张：一站式AI工具发现、评测、导航服务
+
+![_)6JVRE}N9NUM_9WIZL{V)E](https://github.com/user-attachments/assets/9d2a5de0-c935-4629-a74c-ab68d16762fd)
+
   
 二、平台规模与内容体系
 
